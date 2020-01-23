@@ -16,4 +16,4 @@
     * f_classif
 
 ### * Comparative Study of ML Models
-![](Comparison%20of%20Models.png)
+<img src = "Comparitive Study/image.png">
