@@ -12,8 +12,8 @@
 #### Classification
 > * Correlation Matrix
 > * SelectKBest
-    * chi2
-    * f_classif
+>   * chi2
+>   * f_classif
 
 ### * Comparative Study of ML Models
 <img src = "Comparitive Study/image.png">
